@@ -1,0 +1,23 @@
+/* colではじまるクラスをワイルドカードで指定 */
+div[class^="col"] {
+  /* background-color: aqua; */
+  /* background-color: #C9D6DF; */
+  border: 1px solid #1E2022;
+  box-sizing: border-box;
+}
+
+.cp-1 {
+  background-color: #F0F5F9;
+}
+
+.cp-2 {
+  background-color: #C9D6DF;
+}
+
+.cp-3 {
+  background-color: #52616B;
+}
+
+.cp-4 {
+  background-color: #1E2022;
+}
